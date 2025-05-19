@@ -43,8 +43,7 @@ const skillsData: SkillCategory[] = [
     icon: Server,
     skills: [
       { name: 'Windows' },
-      { name: 'Linux' },
-      { name: 'MongoDB Tools Database' },
+      { name: 'MongoDB Compass, Tools' },
     ],
   },
   {
