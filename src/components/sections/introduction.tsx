@@ -14,7 +14,7 @@ const introductionData: IntroductionData = {
     graduationYear: '2022-2026',
   },
   bio: "I am a Full-Stack Developer skilled in the MERN stack, passionate about creating sleek and responsive web applications. She’s currently pursuing BTech in Computer Science at Chandigarh University and has built projects like an AI-powered notes app and a ticket booking system. She also holds certifications in React.js, JavaScript, IoT, and Cloud Computing. Let's connect!",
-  profileImageUrl: '/profile_Picture.jpg', // Path to the image in the public folder
+  profileImageUrl: '/Profile_Picture.jpg', // Path to the image in the public folder
   linkedinUrl: 'https://www.linkedin.com/in/janvi-singh1708/',
   githubUrl: 'https://github.com/JanviSingh1712',
 };

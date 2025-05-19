@@ -13,7 +13,7 @@ const projectsData: Project[] = [
     title: 'Voice-to-Visual Notes App',
     description: 'The Voice-to-Visual Notes App is an AI-driven productivity tool that transforms spoken input into structured digital formats like to-do lists and mind maps. Using the Web Speech API for voice recognition and GPT-4 for natural language understanding, the app intelligently interprets user speech and visually organizes the content with React Flow. Built with React.js and styled using TailwindCSS, it offers a responsive, intuitive interface, while Firebase handles authentication and real-time data storage. Deployed via Vercel, the app provides a seamless and efficient way to capture and visualize ideas hands-free.',
     technologies: ['React.js', 'MongoDB', 'TalwindCSS', 'CSS'],
-    imageUrl: '/1st_work.jpg', 
+    imageUrl: '/1st_Work.jpg', 
     dataAiHint: 'food ordering',
     // githubLink: undefined, // Not provided
     // liveDemoLink: undefined, // Not provided
